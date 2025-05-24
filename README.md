@@ -2,6 +2,7 @@
 A hands-on collection of Jupyter notebooks exploring graph algorithms like community detection, centrality, clustering, and more — with code, visuals, and real examples.
 
 📂 What's Inside
+
 **Community Detection**
 
   -Girvan-Newman Algorithm
