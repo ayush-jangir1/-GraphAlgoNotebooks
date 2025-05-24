@@ -3,28 +3,28 @@ A hands-on collection of Jupyter notebooks exploring graph algorithms like commu
 
 📂 What's Inside
 **Community Detection**
- -Girvan-Newman Algorithm
-
- -Louvain Method
-
- -Label Propagation
+  -Girvan-Newman Algorithm
+ 
+  -Louvain Method
+ 
+  -Label Propagation
 
 **Centrality Measures**
- -Degree, Betweenness, Closeness, and Eigenvector Centrality
+  -Degree, Betweenness, Closeness, and Eigenvector Centrality
  
 **Graph Clustering**
- -Spectral Clustering
- 
- -Modularity-Based Approaches
+  -Spectral Clustering
+  
+  -Modularity-Based Approaches
 
 **Shortest Path Algorithms**
- -Dijkstra’s Algorithm
- 
- -Bellman-Ford
- 
- -Floyd-Warshall
+  -Dijkstra’s Algorithm
+  
+  -Bellman-Ford
+  
+  -Floyd-Warshall
 
 **Visualization**
- -NetworkX & Matplotlib-based visualizations
- 
- -Graph layouts and coloring
+  -NetworkX & Matplotlib-based visualizations
+  
+  -Graph layouts and coloring
