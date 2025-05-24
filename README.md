@@ -1,36 +1,37 @@
-# GraphAlgoNotebooks
-A hands-on collection of Jupyter notebooks exploring graph algorithms like community detection, centrality, clustering, and more — with code, visuals, and real examples.
+**GraphAlgoNotebooks 🌐**
 
-📂 What's Inside
+Hands-on Graph Algorithm Implementations with NetworkX
 
-**Community Detection**
+***Demystifying Graph Algorithms Through Practical Implementations***
 
-  -Girvan-Newman Algorithm
- 
-  -Louvain Method
- 
-  -Label Propagation
+A focused collection of Jupyter notebooks exploring fundamental graph algorithms
 
-**Centrality Measures**
+    ✅ Ready-to-run code with visualizations
+    ✅ Real-world application examples
+    ✅ Beginner-friendly explanations
 
-  -Degree, Betweenness, Closeness, and Eigenvector Centrality
- 
-**Graph Clustering**
+📚 Notebook Catalog
 
-  -Spectral Clustering
-  
-  -Modularity-Based Approaches
+🔍 Community Detection
 
-**Shortest Path Algorithms**
+    Louvain Method - Modularity optimization for community discovery
+    
+    (Coming soon: Girvan-Newman, Label Propagation)
 
-  -Dijkstra’s Algorithm
-  
-  -Bellman-Ford
-  
-  -Floyd-Warshall
+📊 Centrality Measures
 
-**Visualization**
+    (Planned: Degree, Betweenness, Closeness, Eigenvector Centrality)
 
-  -NetworkX & Matplotlib-based visualizations
-  
-  -Graph layouts and coloring
+🌀 Graph Clustering
+
+    (Planned: Spectral Clustering, Modularity-Based Approaches)
+
+🛣️ Shortest Path Algorithms
+
+    (Planned: Dijkstra’s, Bellman-Ford, Floyd-Warshall)
+
+🎨 Visualization
+
+    NetworkX & Matplotlib - Graph layouts and coloring techniques
+
+**🔧 Under Active Development - More graph algorithms coming soon!**
